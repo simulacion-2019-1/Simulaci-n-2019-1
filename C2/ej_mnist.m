@@ -8,11 +8,11 @@ imagenes = 't10k-images.idx3-ubyte';
 labels   = 't10k-labels.idx1-ubyte';
 [x,y]=mnist_parse(imagenes, labels);
 size(x)     % 28X28X10000 -> 10.000 imágenes de 28X28 pixeles
-size(y)
+size(y)     % 10.000 valores (uno para cada imagen asociada)
 
 n_img = 1;  % número de la imagen a capturar/visualizar
 y(n_img)
 x(:,:,n_img)
 imshow(x(:,:,n_img))
 
-% 
+% cada elemento de 'labels' corresponde al valor asociado a cada imagen de 'imagenes'
