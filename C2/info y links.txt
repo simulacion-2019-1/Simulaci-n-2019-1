@@ -5,3 +5,8 @@ https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learn
 
 otras imágenes (para Matlab y python)
 https://enmilocalfunciona.io/deep-learning-basico-con-keras-parte-1/
+
+Tools de entrenamiento
+https://www.youtube.com/watch?v=mbx4XcilaNM
+
+
