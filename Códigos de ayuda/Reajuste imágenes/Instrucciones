@@ -1,4 +1,4 @@
 El livecode funciona con las imágenes que se encuentran en try.zip, solo bastará descargar tanto el livecode como el .zip
 y cambiar la dirección donde quedó descomprimida la carpeta y estará listo para correr el ejemplo.
 
-En changeimsize.m estará el código listo para copiar y pegar.
+En changeimg.m estará el código listo para copiar y pegar.
